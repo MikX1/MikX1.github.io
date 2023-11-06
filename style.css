@@ -1,15 +1,19 @@
-body{
+body
+
+{
     background-color:antiquewhite;
 }
-p{
+
+p
+
+{
  color:Green;
  font-weight:900;
- 
+}
 
+div
 
-
-
-
-
+{
+    max-width: 750px;
 
 }

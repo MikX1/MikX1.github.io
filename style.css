@@ -1,13 +1,13 @@
 body
 
 {
-    background-color:blue;
+    background-color:antiquewhite;
 }
 
 p
 
 {
- color:Black;
+ color:Green;
  font-weight:900;
 }
 
@@ -17,4 +17,3 @@ div
     max-width: 750px;
 
 }
-
